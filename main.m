@@ -1,7 +1,7 @@
 % **********************Copyright (matlab)**********************  
 % Created by Zehong Yan
 % Created date: Jul 25th, 2019  
-% Updated date: Aug 13rd, 2019
+% Updated date: Aug 13th, 2019
 % Members: Zehong Yan
 % File name: main.m  
 % --------------------------------------------------------------  
